@@ -10,5 +10,5 @@ def svns(name):
 	return a.commits()
 
 def checks(name):
-	a = pr(name)
-	return a.commits()
+	a = Syncheck(name)
+	return "hello"
