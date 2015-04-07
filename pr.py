@@ -29,11 +29,14 @@ class pr:
       self.soup = BeautifulSoup(r.text)
 
     def name(self):
-      return self.soup.title.string;
+      return self.soup.title.string.strip();
 
     def commits(self):
       commits = self.soup.find(id="cm-events-table")
-      return svn_re.findall(commits.tbody.text)
+      if (hasattr(commits, 'tbody')):
+        return svn_re.findall(commits.tbody.text)
+      else:
+        return []
 
 if __name__ == '__main__':
     args = docopt(__doc__, version='Naval Fate 2.0')

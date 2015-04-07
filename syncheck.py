@@ -27,11 +27,11 @@ class Syncheck:
         out = self.s.execute('cd ' + sb +';patch -p2 -C -R -f < ' + self.tmp)
         print(out)
         if any('ignore' in w for w in out):
-            return 1
+            return False
         elif any('failed' in w for w in out):
-            return 1
+            return False
         else:
-            return 0
+            return True
 
     def __del__(self):
         print('del')

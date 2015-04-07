@@ -1,5 +1,6 @@
 import web
 from syncheck import Syncheck
+import json
 
 urls = (
     '/svn/(.*)', 'hello'
@@ -13,6 +14,14 @@ class hello:
         a = Syncheck(name)
         a.diff()
         ret_val = '<html>Hello, The commit of SVN: ' + name + '<br>'
+        result = list()
+        result.append({'x44': a.check('x44')})
+        result.append({'x46': a.check('x46')})
+        result.append({'x47': a.check('x47')})
+        result.append({'x48': a.check('x48')})
+        result.append({'x49': a.check('x49')})
+        result.append({'opt': a.check('opt')})
+        '''
         if(a.check('x44')):
         	ret_val = ret_val + ' maybe not in X44!<br>'
         else:
@@ -39,7 +48,8 @@ class hello:
         	ret_val = ret_val + ' is already in OPT!<br>'
 
 		ret_val = ret_val + '</html>'
-        return ret_val
+        '''
+        return json.dumps(result)
 
 
 if __name__ == "__main__":
