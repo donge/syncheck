@@ -16,7 +16,7 @@ $(document).ready(function() {
     var table = $('#example').DataTable( {
         "ajax": {
           //"url": "http://exam:5000/pr",
-          "url": "dongdong.json",
+          "url": "./db/dongdong.json",
           "dataSrc": "data"
         },
         "columns": [
@@ -93,7 +93,7 @@ $(document).ready(function() {
         var userName = $('#test').val();//用jquery获取id为txtuserName的页面标记的value，存放在txtuserName变量里
         $.ajax({
             type: "GET",                                         //ajax的方式为post(get方式对传送数据长度有限制)
-            url: "http://exam:8080/report/" + userName,            //一般处理程序页面AddUser.ashx(在2中会写出该页面内容)
+            url: "/report/" + userName,            //一般处理程序页面AddUser.ashx(在2中会写出该页面内容)
             //url: "yfshao.json",
             dataType: "json",                                   //数据传回的格式为json
 
@@ -106,6 +106,7 @@ $(document).ready(function() {
                     alert("Generation progrss: " + data["progress"] + "%");
             }
         });
+        alert("Generation starts, please wait minutes.");
     });
 } );
 </script>

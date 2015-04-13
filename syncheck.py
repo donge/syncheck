@@ -15,7 +15,7 @@ class Syncheck:
         self.s = ssh.Connection('eng-shell4.juniper.net', 'regress', password = 'MaRtInI')
         self.pr = name
         self.tmp = '~/temp_' + name
-        print('init' + name)
+        print('Init ' + name)
         return
 
     def diff(self):
@@ -34,7 +34,7 @@ class Syncheck:
             return True
 
     def __del__(self):
-        print('del')
+        print('del ')
         self.s.execute('rm -f ' + self.tmp)
         self.s.close()
 
@@ -46,7 +46,7 @@ s.get('/var/log/strange.log', '/home/warrior/serverlog.txt')
 if __name__ == '__main__':
     a = Syncheck('609996')
     a.diff()
-    if (a.check('x44')):
-        print("Commit maybe not there")
-    else:
+    if (a.check('opt')):
         print("Commit is already there")
+    else:
+        print("Commit maybe not there")
