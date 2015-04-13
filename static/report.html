@@ -60,11 +60,13 @@ $(document).ready(function() {
     });
 
     $("#bLoad").click(function(){
+        var user = $('#test').val();
+        if (user == '') user = 'dongdong'
         $('#example').dataTable().fnDestroy();
         table = $('#example').dataTable({
             "ajax": {
               //"url": "http://exam:5000/pr",
-              "url": "./db/" + $('#test').val() + ".json",
+              "url": "./db/" + user + ".json",
               "dataSrc": "data",
               "error": function(reason) {
                     alert("No Report, please generate report first.")
@@ -98,12 +100,12 @@ $(document).ready(function() {
             dataType: "json",                                   //数据传回的格式为json
 
             success: function (data) {
-                if (data["progress"] == 100)
+                //if (data["progress"] == 100)
                     alert("Generation is done, please load report.");
-                else if (data["progress"] == 0)
-                    alert("Generation starts, please wait minutes.");
-                else
-                    alert("Generation progrss: " + data["progress"] + "%");
+                //else if (data["progress"] == 0)
+                //    alert("Generation starts, please wait minutes.");
+                //else
+                //    alert("Generation progrss: " + data["progress"] + "%");
             }
         });
         alert("Generation starts, please wait minutes.");
@@ -118,11 +120,11 @@ $(document).ready(function() {
 
 <div class="panel panel-default">
   <!-- Default panel contents -->
-  <div class="panel-heading">Syncheck</div>
+  <div class="panel-heading"><a href="/">Syncheck</a></div>
   <div class="panel-body">
     <div id="myDiv"><h2>Syncheck Reports</h2></div>
-    <p>Syncheck helps you to check the PRs wether be synced to scopes.</p>
-    <p>by dongdong</p>
+    <p>Syncheck Reports shows all sync status of your PRs</p>
+    <p class="text-right">by dongdong@juniper.net</p>
   </div>
     <center>
     <form>
