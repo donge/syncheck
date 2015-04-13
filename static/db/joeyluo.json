@@ -1,0 +1,340 @@
+{
+    "data": [
+        {
+            "owner": "joeyluo", 
+            "commit": "625464", 
+            "id": "953664", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": true
+            }, 
+            "title": "View 953664 - EX : ARP being dropped at kernel of EX4300 - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "651442", 
+            "id": "996584", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 996584 - Tracking RLI 24201 Support creation of more than 64K nexthop in jexec for vpn 100K scale improvement - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "650969", 
+            "id": "987238", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 987238 - Groups inet6-backup-router only allows a single destination not a destination list like v4 - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "666025", 
+            "id": "1005116", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1005116 - Unable to capture multicast packet on egress interface using forwarding-options packet-capture - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "639956", 
+            "id": "974410", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 974410 - &lt;time-to-expire&gt; in XML output of &quot;show arp  expiration-time | display xml&quot; not formatted correctly - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "619225", 
+            "id": "935437", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 935437 - Unable to connect router via ssl - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "640296", 
+            "id": "960932", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 960932 - SRX doesn&#39;t respond to ICMP,SNMP but TCP works - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "661214", 
+            "id": "974666", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 974666 - [SRX3k] Failed committing IDP policy on node1, when changing configuration after re-constructing CC - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "665976", 
+            "id": "1012011", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1012011 - DEV_SRX_12Q3_BRANCH:COS:Expected Traffic is not Passing as per Shapper Value through Virtual channel - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "625239", 
+            "id": "938711", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 938711 - user privilege for groups configuration - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "701498", 
+            "id": "1069219", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": true
+            }, 
+            "title": "View 1069219 - 15.1:Optimator: dot1x protocol configuration and show commands are not available - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "662610", 
+            "id": "1012706", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1012706 - DEV_SRX_12Q3_BRANCH:Interfaces:VDSL:vlan tagging not working on pt-x/y/z interface. - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "663684", 
+            "id": "1015803", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 1015803 - DEV_SRX_12Q3_BRANCH Balkan :Jflow v9: On Configuring Forwarding-options sampling family inet6 throws syntax error. - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "690123", 
+            "id": "1052925", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 1052925 - group junos-defaults lost after rollback 1 - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "665704", 
+            "id": "1000407", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1000407 - Narfi:console log-out-on-disconnect not work after reboot - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "564649", 
+            "id": "833202", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 833202 - 2nd client can discard 1st client&#39;s locked datastore - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "683523", 
+            "id": "1036582", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1036582 - 12.3X48-IB :COS ML: &#39;No-Fragmentation&#39; functionality on voice packets is not working as expected. - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "588862", 
+            "id": "892348", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": true
+            }, 
+            "title": "View 892348 - IPv6 BGP session md5 autentication problem - BGP &#39;encoded&#39; authentication key &#39;$9$ string&#39; was incorrect but no error was received on commit - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "662609", 
+            "id": "1010207", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1010207 - X48: vty cli &quot;show software-nh index &lt;index&gt;&quot; can&#39;t support index number which is bigger than 65536 - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "580952", 
+            "id": "853536", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 853536 - When the arp table is cleared from cli, the kernel does not sent notifications in order for mib2d to delete the entries - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "654563", 
+            "id": "968631", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 968631 - SRX firewall doesn&#39;t respond to ping if running in selective packed mode and the SPM enabled interface is in customer VR - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "681204", 
+            "id": "1032498", 
+            "checks": {
+                "x47": true, 
+                "x46": false, 
+                "x44": true, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1032498 - Auto-complete does not work for configuring custom login user permissions - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "517653", 
+            "id": "742186", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 742186 - Mib2d core - Bug database"
+        }, 
+        {
+            "owner": "joeyluo", 
+            "commit": "639959", 
+            "id": "886652", 
+            "checks": {
+                "x47": true, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 886652 - FORWARD_NULL:DEV_X_12Q1_SRX_BRANCH - Bug database"
+        }
+    ]
+}
