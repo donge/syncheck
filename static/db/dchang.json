@@ -1,0 +1,298 @@
+{
+    "data": [
+        {
+            "owner": "dchang", 
+            "commit": "618028", 
+            "id": "940350", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 940350 - X46-D10:HA:Primary node on SRX650/SRX210 cluster went to db prompt while doing failover RG&#39;s after multiple ipv6 addresses on reth is configurable - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "580289", 
+            "id": "849069", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 849069 - LN2600: Not able to dump cores in boot-device/compact flash dump-device - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "538441", 
+            "id": "807403", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 807403 - live Vmcore on both RE due to connection/initialization error after GRES in 11.4R5.1 - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "700666", 
+            "id": "1068717", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": true
+            }, 
+            "title": "View 1068717 - 15.1:Optimator :mgd core seen during ADSL testing on SRX 240 H2 - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "520492", 
+            "id": "782996", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 782996 - 10.4:Accounting -Bulk Stats: Multiple PFED cores generated at &quot;_thread_bp_create&quot; in execution of &quot;show interface statistics &lt;name&gt; extensive&quot; when system is configured with 16401 firewall filters on logical interfaces - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "334902", 
+            "id": "478762", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 478762 - Beta: RLI 10523 Failover of RG1 during DNS ALG testing results in - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "679857", 
+            "id": "1032314", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1032314 - secondary node not going into disable state if primary node is restarted. - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "525670", 
+            "id": "778962", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 778962 - System archival configuration on router leaves residual files - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "343676", 
+            "id": "481673", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 481673 - rtlogd cores when IDP_ATTACK_LOG_EVENT event is logged - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "668001", 
+            "id": "1013628", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 1013628 - DEV_SRX_12Q3_BRANCH:JWEB:DCD core found ../../../../../src/junos/lib/ddl/access/delete_dops.c:587 - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "619136", 
+            "id": "946573", 
+            "checks": {
+                "x47": false, 
+                "x46": true, 
+                "x44": true, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 946573 - 12.1X46-D10:FirewallFilter:Dut is going to db mode with ndp entries and vmcore is dumped - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "513523", 
+            "id": "528653", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 528653 - Stalled config archiving results in PFED stalling as well. - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "633555", 
+            "id": "967120", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 967120 - DEV_X_12Q1_SRX_BRANCH:ntpd core found at ../../../../src/bsd/lib/libc/mips/gen/ldexp.S:65 - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "361940", 
+            "id": "481544", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 481544 - IPv6: fix pfe/include/ip.h and usp_ha_msg_types.h for supporting v6 related changes - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "625010", 
+            "id": "946316", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 946316 - After data plane failover, SRX in transparent mode is not resetting &#39;last flapped&#39; timer - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "654137", 
+            "id": "941320", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 941320 - 12.1X46-D10:HA: IPv6 Ping with size more than 1132 fails even when mtu configured on interface is 1306 - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "585048", 
+            "id": "520962", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 520962 - input counter of fab0 shows always 0 - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "355770", 
+            "id": "465426", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 465426 - Thor: RTlogd core 0x00464364 in rtlogd_tnp_rx (ctx=&lt;value optimized out&gt;, uap=&lt;value optimized out&gt;, fd=4, evmask=&lt;value optimized out&gt;)     at ../../../../src/usp/usr.sbin/rtlogd/rtlogd.c:740 - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "702246", 
+            "id": "1064005", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1064005 - Cluster Fabric Connection monitoring failure after primary node reboot - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "668005", 
+            "id": "1015462", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 1015462 - DEV_SRX_12Q3_BRANCH:HA:traffic is not flowing after moving reth interface to different redundency group - Bug database"
+        }, 
+        {
+            "owner": "dchang", 
+            "commit": "355763", 
+            "id": "492456", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 492456 - flowd_xlr coredump happened when policy was changed by NSM. - Bug database"
+        }
+    ]
+}

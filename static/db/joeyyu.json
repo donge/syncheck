@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "owner": "joeyyu", 
+            "commit": "647852", 
+            "id": "989199", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 989199 - CITIGROUP - customer user permissions are ignored, deny-commands work - Bug database"
+        }, 
+        {
+            "owner": "joeyyu", 
+            "commit": "648501", 
+            "id": "978535", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 978535 - When polling for ifAlias, NoSuchObject message is returned - Bug database"
+        }, 
+        {
+            "owner": "joeyyu", 
+            "commit": "514529", 
+            "id": "774814", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 774814 - MGD crashes when executing &quot;show configuration | compare rollback 1&quot; - Bug database"
+        }, 
+        {
+            "owner": "joeyyu", 
+            "commit": "653442", 
+            "id": "989548", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": true, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 989548 - Chassis cluster goes into split brain - Bug database"
+        }, 
+        {
+            "owner": "joeyyu", 
+            "commit": "695024", 
+            "id": "1028841", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1028841 - Proxy-ARP configuration not available for Reth interface however it works via a workaround - Bug database"
+        }, 
+        {
+            "owner": "joeyyu", 
+            "commit": "682238", 
+            "id": "1037373", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1037373 - 12.3X48:VRRP 3:IPv6:VRRP3 does not work for IPv6 - Bug database"
+        }, 
+        {
+            "owner": "joeyyu", 
+            "commit": "542950", 
+            "id": "812025", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 812025 - Memory leak in trap processing - SNMPD attempted to exceed RLIMIT_DATA - Bug database"
+        }, 
+        {
+            "owner": "joeyyu", 
+            "commit": "681766", 
+            "id": "990722", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": true, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 990722 - CHASSISD_EXEC_ERROR visible during every commit of configuration - Bug database"
+        }, 
+        {
+            "owner": "joeyyu", 
+            "commit": "643818", 
+            "id": "965378", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 965378 - Missing/empty/corrupt /etc/pam.conf file allows root access with no password - Bug database"
+        }, 
+        {
+            "owner": "joeyyu", 
+            "commit": "595807", 
+            "id": "898175", 
+            "checks": {
+                "x47": false, 
+                "x46": true, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 898175 - IP address notation in reverse order when FW action is syslog - Bug database"
+        }, 
+        {
+            "owner": "joeyyu", 
+            "commit": "686762", 
+            "id": "1033168", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": false, 
+                "x49": false, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 1033168 - 12.1X47-D11:Screen::jsrpd core is dumping on box. - Bug database"
+        }
+    ]
+}

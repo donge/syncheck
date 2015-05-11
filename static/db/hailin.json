@@ -1,0 +1,214 @@
+{
+    "data": [
+        {
+            "owner": "hailin", 
+            "commit": "687507", 
+            "id": "1049711", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": false, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 1049711 - JDHCP not sending DHCP ACK on DHCP INFORM.... - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "361940", 
+            "id": "481544", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 481544 - IPv6: fix pfe/include/ip.h and usp_ha_msg_types.h for supporting v6 related changes - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "547549", 
+            "id": "724079", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 724079 - lock error message does not follow netconf RFC - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "394998", 
+            "id": "536122", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 536122 - CSS-PDT 10.4/DS-Lite: process fragment packets failed - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "650993", 
+            "id": "949717", 
+            "checks": {
+                "x47": true, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 949717 - X47:JDHCPD:DHCP server option 82 can not work fine. - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "602891", 
+            "id": "911864", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 911864 - In JDHCPD Deamon, DHCP Rebind ACK drops when it is from a different server. - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "544011", 
+            "id": "820357", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 820357 - JUNOS RPC-reply elements have duplicate xmlns attributes - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "624608", 
+            "id": "944284", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 944284 - X47:JDHCPD:Can not configure dhcp server in logical system. - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "544010", 
+            "id": "820311", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 820311 - NETCONF &lt;hello&gt; message missing namespace - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "701926", 
+            "id": "1057473", 
+            "checks": {
+                "x47": false, 
+                "x46": true, 
+                "x44": true, 
+                "x49": false, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 1057473 - SRX210h-poe standalone 12.1X46-D25 encrypted rescue configuration not recognized as rescue configuration - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "358038", 
+            "id": "496139", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 496139 - CP does not reserve sessions for management traffic (like SPU) - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "642162", 
+            "id": "972990", 
+            "checks": {
+                "x47": true, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 972990 - X47:JDHCPD:Can not get dhcp snmp trap info for jnxJdhcpLocalServerDuplicateClient OID. - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "671109", 
+            "id": "1021943", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1021943 - snmpd unresponsive after reboot on a master RE with GRES - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "455176", 
+            "id": "604510", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 604510 - 10.4R4.3-SRX240hm-Fragmented icmp traffic is failing between SPOKE to SPOKE IPSec VPN tunnel. - Bug database"
+        }, 
+        {
+            "owner": "hailin", 
+            "commit": "503783", 
+            "id": "711511", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 711511 - IPV6 TCP CPS - 6SPC : CPS is low in 11.4R1. Around 35% drop against IPV4 CPS - Bug database"
+        }
+    ]
+}

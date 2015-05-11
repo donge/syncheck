@@ -1,0 +1,746 @@
+{
+    "data": [
+        {
+            "owner": "beanhu", 
+            "commit": "598338", 
+            "id": "909293", 
+            "checks": {
+                "x47": true, 
+                "x46": false, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 909293 - Error during &#39;find&#39; of a specific NAT entry- kern.maxfiles limit exceeded by uid 0, please see tuning(7). - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "613251", 
+            "id": "934768", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 934768 - FFA - tcp_inpcb buffer leak in ADC and TLB service pics - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "669860", 
+            "id": "1023727", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1023727 - DEV_X_121_X44_BRANCH: Device becomes unreachable and pic&#39;s remains in present state after loading X44 (20140903.0) build - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "660907", 
+            "id": "1012502", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1012502 - DEV_SRX_12Q3_BRANCH:FTP-installation::After loading daily image 12.3-daily(12.3-20140720.0) ,router went to db mode - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "552113", 
+            "id": "804535", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 804535 - ADSL flap - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "608469", 
+            "id": "523721", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 523721 - SRX-240 HA with VDSL2mPIM : ifd for vdsl on secondary node is not getting created in cluster mode - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "700156", 
+            "id": "1064166", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1064166 - SRX240 HA 12.1X44-D40 Veriexec reporting fingerprint mismatch after upgrading to 12.1X44-D40 - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "543273", 
+            "id": "798180", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 798180 - Loopback and snr-margin configurations are not working as expected under shdsl-options CLI on G.SHDSL EFM interface - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "671300", 
+            "id": "1021150", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": true, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1021150 - SRX550 running 121.X44-D20 core dumps flowd at rtlog - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "605781", 
+            "id": "835654", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 835654 - Branch_srx: ADSL mPIM : Change in CBR Shaping value causing Adsl link to hang - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "632024", 
+            "id": "960439", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 960439 - Viking:upgrade with partition option failed by free space size check - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "590011", 
+            "id": "892445", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 892445 - ADSL does not work on VDSL mPIM with Junos 12.1X44-D10 or 12.1X44-D15 - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "636826", 
+            "id": "952849", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 952849 - 12.1X45-D20:system helth monitor::system health monitor is not working proper by using hogger tool - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "608691", 
+            "id": "923025", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 923025 - Device displaying a higher value of ATU-C attenuation than the ATU-R attenuation. Also need explanation on other ADSL counters. - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "677622", 
+            "id": "1034149", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 1034149 - DEV_X_SRX_12Q3_X48_INTGR_BRANCH:RADIUS accounting server::auditd.core.0.gz seen in 12.3X48-IB - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "704268", 
+            "id": "1073024", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": true
+            }, 
+            "title": "View 1073024 - 15.1:Optimator:Router goes to db promot when dns is configured - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "705524", 
+            "id": "1066032", 
+            "checks": {
+                "x47": false, 
+                "x46": true, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1066032 - VDSL firmware upgrade failure. No applicable firmware present. - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "571882", 
+            "id": "864551", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": true
+            }, 
+            "title": "View 864551 - Mixed mode VC - 2xEX4500+4x4200 - /kernel: kmem type session using 50696K, approaching limit 57344K - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "676300", 
+            "id": "1030959", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1030959 - sh chassis craft-interface not showing the alarms - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "611451", 
+            "id": "874249", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 874249 - 11.4:SHDSL:SHDSL 2-Wire Regional Annex B:Third IFD in SHDSL 2-Wire Mode for Regoinal Annex B is not Syncing as Expected - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "652287", 
+            "id": "929612", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 929612 - Veriexec reporting fingerprint mismatch for /etc/ssh/primes for new SSH sessions - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "645631", 
+            "id": "987215", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 987215 - SRX_123_BALKAN:INFRA:SRX-240 2G device goes to DB mode for every reboot with PVT_SRX_123_BALKAN_BRANCH (20140424.0) build - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "699870", 
+            "id": "1043409", 
+            "checks": {
+                "x47": false, 
+                "x46": true, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1043409 - 12.1X46-D30:  flowd_octeon.core at ../../../../../../../src/pfe/usp/control/toolkits/timers/ager-ring.c:1053 while running regressions - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "686179", 
+            "id": "1047196", 
+            "checks": {
+                "x47": false, 
+                "x46": true, 
+                "x44": false, 
+                "x49": true, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1047196 - RBU NOMAD Regressions : CHASSIS : FPC is not online and struck in Present state in DEV_X_12Q3_SRX_BRANCH branch - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "660652", 
+            "id": "1011698", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1011698 - DEV_SRX_12Q3_BRANCH::USB::Router went to db prompt while doing partition to usb throwing error &quot;Failed to create symlink /dev/bo0s1a for /dev/da1s1a&quot; - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "692054", 
+            "id": "1040246", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 1040246 - &quot;request system reboot media usb&quot; command doesn&#39;t boot from usb drive if &quot;node 0&quot; option is specified in cluster - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "672501", 
+            "id": "1026114", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1026114 - X48:UTM:KAV:Empty reply from server is coming for HTTP upload and download for virus,zip,doc etc files. - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "593299", 
+            "id": "898775", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 898775 - 12.1X44-D20:VDSL Profile:VDSL Profile Change test:Change of VDSL Profile from one to another is not retraining the VDSL Link - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "634207", 
+            "id": "955084", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 955084 - X46:USRFW:HA: After boot branch srx, /opt/sdk folder will be deleted - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "621763", 
+            "id": "937438", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 937438 - Kernel panic after rg0 failover - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "638448", 
+            "id": "976197", 
+            "checks": {
+                "x47": true, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 976197 - 12.1X47-D1: Box goes to db mode after loading 12.1X47-D1 build. - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "601331", 
+            "id": "863624", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 863624 - SRX-VTOT: Not able to Configure VBR Shaper rate on ATM Interface through CLI command - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "658991", 
+            "id": "1009843", 
+            "checks": {
+                "x47": false, 
+                "x46": true, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 1009843 - 12.1X46-D25.1 OR Platform:TFTP:Subcategory(optional):TFTP install throwing an error * Failed to find a valid wired memory profile* - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "645864", 
+            "id": "987067", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 987067 - SRX_123_BALKAN: Image is not getting installed for SRX110 and SRX210 2G devices with PVT_SRX_123_BALKAN_BRANCH (20140424.0) build - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "663117", 
+            "id": "937450", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 937450 - SBU-PDT-SD:srx650:Flowd core_ _pthread_sigmask (how=3, set=0x3ffedbb8, oset=0x0) at ../../../../src/bsd/lib/libpthread/arch/mips/include/pthread_md.h:217 - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "628280", 
+            "id": "943829", 
+            "checks": {
+                "x47": false, 
+                "x46": true, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 943829 - 12.1X46: Errors seen in install log while upgrading from X46 D1 to D2 - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "695671", 
+            "id": "1061268", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 1061268 - Coverity: CID 104587 (#1-2 of 2): Uninitialized scalar variable (UNINIT) - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "602630", 
+            "id": "910977", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 910977 - Fan speed vs temperature mapping changed for SRX210HE between 12.1R6 and 12.1X44-D20 - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "582761", 
+            "id": "882035", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 882035 - 12X44-D15:SHDSL mPIM:2 Wire Mode:When shdsl mPIM is configured in 2-Wire mode with annex mode Annex B/G one of the IFD is not comming up - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "645223", 
+            "id": "986793", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 986793 - VTY of new plugin doesnot work on branch platform - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "665958", 
+            "id": "1013287", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 1013287 - DEV_SRX_12Q3_BRANCH:Platform:UpDown:While doing  downgrade from  Balkan with validation option ,throws an error - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "625897", 
+            "id": "953723", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": false
+            }, 
+            "title": "View 953723 - Old RG0 primary reboots once RG0 failover is triggered - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "702661", 
+            "id": "1069658", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": true
+            }, 
+            "title": "View 1069658 - 15.1:Optimator: SRX 220h2, Router goes to db promot when mlppp is configured. - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "554114", 
+            "id": "817939", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 817939 - pp0.0 interface does not come up when using VDSL - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "597152", 
+            "id": "900335", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 900335 - Bandwidth of at-0/0/0 interface isn&#39;t visible after the link is up - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "600350", 
+            "id": "913200", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 913200 - JDHCP:JDHCP over ADSL mPIM::When basic JDHCP client is configured on ADSL mPIM, Router becomes Unreachable via management and Flowd_octeon start corning continiously with ping not going through ADSL interface too - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "681198", 
+            "id": "974851", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 974851 - SBU-PDT X47: Memory available to load databases on PME are insufficient on H2 platforms - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "602128", 
+            "id": "822867", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": true, 
+                "x48": true, 
+                "opt": true
+            }, 
+            "title": "View 822867 - EFM: Affter rebooting box, UAS counter for link 1 is set to junk value. - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "603615", 
+            "id": "899817", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": true, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 899817 - X46:IPv6 VPN: lifetime-kilobites 64 doesn&#39;t rekey P2 after every lifetime-kilobites expires. - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "571763", 
+            "id": "835677", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 835677 - Branch_srx: ADSL mPIM : ATM OAM F5 Cells are not being recieved by SRX, even though its sent by BRAS - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "695687", 
+            "id": "1062093", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": true
+            }, 
+            "title": "View 1062093 - Optimator: 15.1R1:Commit failure is seen after loading the image 15.1I20150203_pvt_build_break_for__dev_s3_srx_r2t.0-694934 - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "588477", 
+            "id": "857618", 
+            "checks": {
+                "x47": true, 
+                "x46": true, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 857618 - 12Q1_MAJOR3_BRANCH:Commit Failed, While configuring the family iso with PPPoA encapsulation on ATM Interface. - Bug database"
+        }, 
+        {
+            "owner": "beanhu", 
+            "commit": "665985", 
+            "id": "985479", 
+            "checks": {
+                "x47": false, 
+                "x46": false, 
+                "x44": false, 
+                "x49": false, 
+                "x48": false, 
+                "opt": false
+            }, 
+            "title": "View 985479 - High control plane memory usage concerns after upgrading to Junos OS version 12.1X45 and 12.1X46 on SRX100B, SRX210B, and SRX240B - Bug database"
+        }
+    ]
+}
