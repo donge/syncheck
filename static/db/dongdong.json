@@ -108,7 +108,7 @@
                 "x44": false, 
                 "x49": false, 
                 "x48": false, 
-                "opt": false
+                "opt": true
             }, 
             "title": "View 1070411 - 15.1:Optimator: commit fails when an ethernet switch interface is added to OAM mep interface - Bug database"
         }, 
@@ -192,7 +192,7 @@
                 "x44": false, 
                 "x49": true, 
                 "x48": true, 
-                "opt": false
+                "opt": true
             }, 
             "title": "View 1053179 - 12.3X48-D10: MTR : OSPF load balence with MTR not working as expected - Bug database"
         }, 
@@ -262,7 +262,7 @@
                 "x44": false, 
                 "x49": false, 
                 "x48": false, 
-                "opt": false
+                "opt": true
             }, 
             "title": "View 1072324 - 15.1:Optimator:Commit not going through for VBR Shaping Configurations - Bug database"
         }, 
